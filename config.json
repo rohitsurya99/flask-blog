@@ -1,0 +1,18 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/techyfeed",
+    "prod_uri": "mysql://root:@localhost/techyfeed",
+    "fb_url": "https://www.facebook.com/rohit.suryawanshi.7524",
+    "git_url": "https://www.github.com/rohitsurya99",
+    "tw_url": "https://www.twitter.com",
+    "blog_name": "TechyFeed",
+    "blog_tagline":"Update yourself with world...",
+    "gmail_user": "rohitsuryawanshi69399@gmail.com",
+    "gmail_pass": "rockstarbaburao@123",
+    "no_of_posts": 10,
+    "admin_user":"admin",
+    "admin_password": "pass",
+    "upload_location": "C:\\Users\\infin\\PycharmProjects\\blog\\static"
+  }
+}
